@@ -1,0 +1,4 @@
+how do we create a react project?
+
+- a react project contains a build tool and a development server in the background.
+- use create tool to create a react project , install node.js for getting a reloading development server that host our running react app and updates the changes in our browser by transfering the code we write in react app to a code that runs in the browser.
